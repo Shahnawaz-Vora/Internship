@@ -45,6 +45,22 @@
 * Working on removing Top Toolbar
 
 30 Dec
+
 * Reasearch on how using python scripting of slicer in slicer 3d source code
 * Working on top toolbar
 * Working on removing logo on app
+
+31 Dec
+
+* Remove toolbar totally
+* Remove status bar
+
+3 Dec
+
+* Fix the size of module panel widget
+* Found how to use python in slicer environment
+
+4 Dec
+
+* Remove View toolbar from slice view
+* Add label to top left in three slice view
