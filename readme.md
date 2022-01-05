@@ -55,12 +55,17 @@
 * Remove toolbar totally
 * Remove status bar
 
-3 Dec
+3 Jan
 
 * Fix the size of module panel widget
 * Found how to use python in slicer environment
 
-4 Dec
+4 Jan
 
 * Remove View toolbar from slice view
 * Add label to top left in three slice view
+
+5 Jan
+
+* Working on github slicer-build action
+* Working on add vertical scrollbar in sliceview
