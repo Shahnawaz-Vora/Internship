@@ -69,3 +69,16 @@
 
 * Working on github slicer-build action
 * Working on add vertical scrollbar in sliceview
+
+6 Jan 
+* Working on add vertical scrollbar in sliceview
+* Half Day due to fever
+
+7 Jan 
+* Working on slider
+
+10 Jan
+* Fix active deactive state of toolbar buttons
+* Working on slider
+
+11 Jan
