@@ -82,3 +82,11 @@
 * Working on slider
 
 11 Jan
+* Working on open and file save button gui and functionality
+
+12 Jan
+* Working on dicom open checkable button
+
+13 Jan
+* Working on dicom open checkable button
+
