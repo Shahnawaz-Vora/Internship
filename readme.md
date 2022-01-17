@@ -88,5 +88,8 @@
 * Working on dicom open checkable button
 
 13 Jan
-* Working on dicom open checkable button
+* Working on Dicom button and completed
+
+17 Jan
+* Working on smoothing surface button in segmentation module
 
