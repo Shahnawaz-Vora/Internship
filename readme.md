@@ -93,3 +93,11 @@
 17 Jan
 * Working on smoothing surface button in segmentation module
 
+18 Jan
+* Change Segmentation effect button layout
+* Working on icons of segmentation effect button
+
+19 Jan
+* Working on size of segmentation effect button
+* Working on brightness /contrast shortcut on slice view
+
