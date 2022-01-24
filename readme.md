@@ -101,3 +101,12 @@
 * Working on size of segmentation effect button
 * Working on brightness /contrast shortcut on slice view
 
+20 Jan
+* Working on brightness /contrast functionality on slice view
+
+21 Jan
+* Completed brightness/contrast functionality task
+* Attend meeting with Andre Lasson
+
+24 Jan
+* Researching on less app build time
