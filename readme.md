@@ -110,3 +110,9 @@
 
 24 Jan
 * Researching on less app build time
+
+25 Jan
+* Working on how to create custom module in slicer environment
+
+27 Jan
+* Working on clear mask functionality
