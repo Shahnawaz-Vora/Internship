@@ -116,3 +116,6 @@
 
 27 Jan
 * Working on clear mask functionality
+
+28 Jan
+* Working on slider
